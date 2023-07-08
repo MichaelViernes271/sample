@@ -1,1 +1,3 @@
 this is the newtext
+
+a new strings of text from main, new changes (2)

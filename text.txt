@@ -1,1 +1,3 @@
 this is the sample text
+
+from main branch, new strings of text (2)
