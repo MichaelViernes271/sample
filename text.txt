@@ -1,3 +1,9 @@
 this is the sample text
 
+<<<<<<< HEAD
 from main branch, new strings of text (2)
+=======
+
+
+another strings of text from newtext
+>>>>>>> newtext
