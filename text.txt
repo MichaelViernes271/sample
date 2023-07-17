@@ -1,7 +1,3 @@
 this is the sample text
 
-<<<<<<< HEAD
-from main branch, new strings of text (2)
-=======
-
-new change here
+forking this repositories
